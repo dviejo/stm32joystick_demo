@@ -6,9 +6,6 @@ Created by Diego Viejo dviejo at ua.es for educational purposes
   
 on May the fourth 2020 ;)
  
-The bluepill is configured as a multiaxis joystick with:
- * 8 buttons
- * 6 axis: xAxis, yAxis, zAxis, Accelerator, Brake, Steering
  
 Uses libOpenCM3 HAL Library and FreeRTOS
  * Thanks to Warren Gay and his "Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC"
@@ -21,7 +18,7 @@ I've picked up ideas from here (thanks a lot for sharing your knowledge):
 And also from Arduino Joystick library from MHeironimus:
 * https://github.com/MHeironimus/ArduinoJoystickLibrary
  
-The bluepill is configured as a multiaxis joystick with:
+The Bluepill is configured as a multiaxis joystick with:
     * 8 buttons
     * 6 axis: xAxis, yAxis, zAxis, Accelerator, Brake, Steering
   
