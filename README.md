@@ -56,11 +56,14 @@ I've been using the Toolchain for compiling and flashing stm32 firmware as descr
 4. Build the firmware
 
 ```
-    $ cd stm32joystick_demo
+    $ cd ~/stm32f103c8t6
+    $ make
+    $ cd rtos/stm32joystick_demo/
     $ make
     $ make flash
 ```
-
+5. You can eliminate copiling files typing `$ make clean` or you can make a clean start by typing `$ make clobber`
+6. Enjoy!
 ## License
 
 stm32joystick_demo code is released under the terms of the GNU Lesser General Public License (LGPL), version 3 or later.
