@@ -3,8 +3,6 @@
  *  Created by Diego Viejo dviejo@ua.es for educational purposes
  *  on May the fourth 2020 ;)
  * 
- * The libopencm3 code is released under the terms of the GNU Lesser General Public License (LGPL), 
- * 	version 3 or later.
  * 
  * Uses libOpenCM3 HAL Library and FreeRTOS
  * 		Thanks to Warren Gay and his "Beginning STM32: Developing with FreeRTOS, libopencm3 and GCC"
