@@ -59,7 +59,7 @@ I've been using the Toolchain for compiling and flashing stm32 firmware as descr
     $ make
     $ make flash
 ```
-5. You can eliminate copiling files typing `$ make clean` or you can make a clean start by typing `$ make clobber`
+5. You can eliminate compiling files typing `$ make clean` or you can make a clean start by typing `$ make clobber`
 6. Enjoy!
 ## License
 
